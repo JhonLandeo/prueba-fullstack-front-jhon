@@ -1,0 +1,16 @@
+<template>
+  <div class="not-found">
+    <h1>404 - Página no encontrada</h1>
+    <p>La página que buscas no existe.</p>
+  </div>
+</template>
+
+<script setup>
+</script>
+
+<style scoped>
+.not-found {
+  text-align: center;
+  padding: 20px;
+}
+</style>
