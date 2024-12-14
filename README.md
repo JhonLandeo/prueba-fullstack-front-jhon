@@ -63,7 +63,7 @@ Para que la aplicación funcione correctamente y pueda comunicarse con la API de
 
 1. Clona el repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/task-manager-spa.git
+   git clone https://github.com/JhonLandeo/prueba-fullstack-front-jhon.git
 
 
 ```
